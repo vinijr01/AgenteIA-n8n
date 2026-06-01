@@ -64,7 +64,7 @@ O objetivo do projeto é demonstrar a aplicação de Inteligência Artificial Ge
 
 ---
 
-## 🔄 Fluxo Simplificado
+## Fluxo Simplificado
 
 ```text
 WhatsApp
@@ -82,7 +82,7 @@ Resposta ao Usuário
 
 ---
 
-## 👨‍💻 Integrantes
+## Integrantes
 
 * Vinícius dos Santos Domingos
 * Davi Martilio
@@ -90,13 +90,13 @@ Resposta ao Usuário
 
 ---
 
-## 📚 Contexto Acadêmico
+## Contexto Acadêmico
 
 Projeto desenvolvido para a disciplina de Inteligência Artificial / Automação de Processos, com foco na aplicação prática de agentes inteligentes para atendimento automatizado.
 
 ---
 
-## 🚀 Repositório
+## Repositório
 
 GitHub:
 
